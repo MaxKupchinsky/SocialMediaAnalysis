@@ -3,8 +3,8 @@ class Autorisation:
         pass
 
     def VkLogin(self):
-        login = '+79189895120'
-        password = '13M1966a15x'
+        login = 'LOGIN' 
+        password = 'PASSWORD'
         return login, password
 
     def DbConnect(self):
